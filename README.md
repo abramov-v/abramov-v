@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**abramov-v/abramov-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineer with a strong passion for automation, clean architecture, and solving real-world problems through code.  
+Currently focusing on backend development and embedded experimentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+- **Languages:** Python, SQL, Bash, HTML, CSS
+- **Frameworks:** Django, Django REST Framework, FastAPI
+- **Tools:** Docker, Git, Nginx, Gunicorn, Linux, Bootstrap
+
+---
+
+🔧 **Currently working on**
+- Learning **C**
+- Developing tools and experiments for **Flipper Zero**
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valeriy-abramov.valeriy-abramov)

@@ -23,7 +23,8 @@ Currently focused on backend development and experimenting with embedded systems
 
 🔧 **Currently working on**
 - Learning **C**
-- Developing tools and experiments for **Flipper Zero**
+- Developing tools and experiments for ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-orange?style=for-the-badge)
+- 
 
 ---
 

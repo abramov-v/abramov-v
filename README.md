@@ -14,6 +14,7 @@ Currently focused on backend development and experimenting with embedded systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -23,10 +24,6 @@ Currently focused on backend development and experimenting with embedded systems
 
 🔧 **Currently working on**
 - Learning **C**
-- Developing tools and experiments for ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-orange?style=for-the-badge)
-- 
-
+- Developing tools and experiments for **Flipper Zero**
+  
 ---
-
-![Visitors](https://shields-io-visitor-counter.vercel.app/api/valeriy-abramov/readme?color=0E75B6)
-

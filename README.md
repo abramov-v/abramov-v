@@ -17,3 +17,6 @@ Currently focused on backend development and experimenting with embedded systems
 - Developing tools and experiments for **Flipper Zero**
 
 ---
+
+![Visitors](https://shields-io-visitor-counter.vercel.app/api/valeriy-abramov/readme?color=0E75B6)
+

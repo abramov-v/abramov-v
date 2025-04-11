@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-I am an engineer with a strong passion for automation, clean architecture, and solving real-world problems through code.  
-Currently focused on backend development and experimenting with embedded systems.
+I'm a backend developer with an engineering background, passionate about automation, clean architecture, and building reliable systems.  
 
 ---
 
@@ -22,7 +21,7 @@ Currently focused on backend development and experimenting with embedded systems
 
 ---
 
-🔧 **Currently working on**
-- Developing tools and experiments for **Flipper Zero**
+- 🔧 **Currently experimenting with**  
+- Embedded development for **Flipper Zero** (C, gcc, serial interface)
   
 ---

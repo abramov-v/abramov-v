@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a backend developer with an engineering background, passionate about automation, clean architecture, and building reliable systems.  
+I'm a Python developer with an engineering background, passionate about automation, clean architecture, and building reliable systems.  
 
 ---
 

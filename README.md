@@ -11,7 +11,7 @@ I'm Valeriy — a Python developer with an Electrical and control systems engine
 - PostgreSQL, Redis
 - Docker, Nginx, Gunicorn
 - Linux, Git, GitHub Actions
-- Postman, Bootstrap
+- Postman
 
 ---
 

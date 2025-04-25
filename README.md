@@ -18,7 +18,7 @@ I'm Valeriy — a Python developer with an Electrical and control systems engine
 ### 🎯 What I'm currently into
 
 - Playing around with embedded development for **Flipper Zero**
-- Solving algorithms on LeetCode to sharpen my skills
+- Solving algorithms to sharpen my skills
 
 ---
 

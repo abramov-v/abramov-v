@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Valeriy — a Python developer with an Electrical and control systems engineering background. I enjoy building clean and reliable systems, automating the boring stuff, and occasionally diving into low-level experiments with devices like Flipper Zero.
+I'm a Python developer. I enjoy building clean and reliable systems, automating the boring stuff, and occasionally diving into low-level experiments with devices like Flipper Zero.
 
 ---
 

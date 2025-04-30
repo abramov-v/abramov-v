@@ -15,22 +15,7 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 
 ---
 
-### 🎯 What I'm currently into
-
-- Playing around with embedded development for **Flipper Zero**
-- Solving algorithms to sharpen my skills
-
----
-
 ### ☕ A bit more about me
 
 - Switched from engineering to IT to chase more exciting problems
 - Always curious and learning
-
----
-
-### 📬 Let’s connect!
-
-Feel free to reach out if you want to talk about code, collab on a project, or just share some ideas.
-
-- LinkedIn: [https://www.linkedin.com/in/v-abramov/](https://www.linkedin.com/in/v-abramov/)

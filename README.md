@@ -14,8 +14,3 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 - Postman
 
 ---
-
-### ☕ A bit more about me
-
-- Switched from engineering to IT to chase more exciting problems
-- Always curious and learning

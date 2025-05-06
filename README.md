@@ -4,8 +4,7 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 
 ---
 
-### 🛠️ What I work with
-
+🛠️ What I work with
 - Python, C
 - Django, FastAPI
 - PostgreSQL, Redis

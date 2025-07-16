@@ -12,6 +12,4 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 - Linux, Git, GitHub Actions
 - Postman
 
----
-I’m open to collaboration, interesting side projects, and new job opportunities. Feel free to reach out!
 

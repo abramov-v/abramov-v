@@ -9,7 +9,7 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 - Django, FastAPI
 - PostgreSQL, Redis
 - Docker, Nginx, Gunicorn
-- Linux, Git, GitHub Actions
-- Postman
+- Linux, Git
 
+📝 This README is a work in progress — just like me. More to come soon!
 

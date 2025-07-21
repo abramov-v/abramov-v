@@ -5,6 +5,9 @@
 
 I'm a Python developer. I enjoy building clean and reliable systems, automating the boring stuff, and occasionally diving into low-level experiments with devices like Flipper Zero.
 
+
+<img src="https://onlinegiftools.com/images/examples-onlinegiftools/surface-3d-projection-black-and-white.gif" width="300"/>
+
 ---
 
 🛠️ What I work with

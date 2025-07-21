@@ -16,7 +16,7 @@ I'm a Python developer. I enjoy building clean and reliable systems, automating 
 
 📝 This README is a work in progress — just like me. More to come soon!
 
-
+&nbsp;
 <div align="center">
   <img src="https://onlinegiftools.com/images/examples-onlinegiftools/surface-3d-projection-black-and-white.gif" width="320"/>
 </div>

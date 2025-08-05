@@ -2,18 +2,21 @@
 
 > General Kenobi...
 >
-I'm a Python developer. I enjoy building clean and reliable systems, automating the boring stuff, and occasionally diving into low-level experiments with devices like Flipper Zero.
+I build systems in Python. I care about clean code, useful tools, and curious hardware.
 
 ---
 
 🛠️ What I work with
-- Python, C
-- Django, FastAPI
-- PostgreSQL, Redis
-- Docker, Nginx, Gunicorn
-- Linux, Git
+- Languages: Python, C
+- Frameworks: Django, FastAPI, Flask
+- Databases: PostgreSQL, Redis, SQLite
+- DevOps: Docker, Nginx, Gunicorn, Uvicorn
+- Tools: Linux, Git
+- Other: Async programming, API design, web scraping, system security basics
 
-📝 This README is a work in progress — just like me. More to come soon!
+### 📌 Current focus
+- Building APIs with FastAPI
+- Exploring hardware + Python integration
 
 &nbsp;
 <div align="center">

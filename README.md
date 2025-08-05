@@ -20,7 +20,7 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 
 ### ⌁
 
-<div align="center">
+<div align="left">
   <img src="https://68.media.tumblr.com/d7d763662943e403fba434dea6292041/tumblr_myu59tfV911r2geqjo1_500.gif" width="320"/>
 </div>
 

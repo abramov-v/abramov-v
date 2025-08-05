@@ -19,6 +19,6 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 - Exploring various hardware and software integrations
 
 &nbsp;
-<div align="center">
+<div align="left">
   <img src="https://onlinegiftools.com/images/examples-onlinegiftools/surface-3d-projection-black-and-white.gif" width="320"/>
 </div>

@@ -16,7 +16,7 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 
 ### 📌 Current focus
 - Building APIs with FastAPI
-- Exploring hardware + Python integration
+- Exploring various hardware and software integrations
 
 &nbsp;
 <div align="center">

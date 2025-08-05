@@ -12,7 +12,7 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 - Databases: PostgreSQL, Redis, SQLite
 - DevOps: Docker, Nginx, Gunicorn, Uvicorn
 - Tools: Linux, Git
-- Other: Async programming, API design, web scraping, system security basics
+- Other: Async programming, API design, web scraping, system security
 
 ### 📌 Current focus
 - Building APIs with FastAPI

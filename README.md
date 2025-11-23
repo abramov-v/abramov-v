@@ -6,18 +6,17 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 
 ---
 
-🛠️ What I work with
-- Languages: Python, C
-- Frameworks: Django, FastAPI, Flask
-- Databases: PostgreSQL, Redis, SQLite
-- DevOps: Docker, Nginx, Gunicorn, Uvicorn
-- Tools: Linux, Git
-- Other: Async programming, API design, web scraping, system security
+## 🛠️ Tech Stack  
+**Languages:** Python, C  
+**Frameworks:** FastAPI, Django, Flask  
+**Databases:** PostgreSQL, Redis, SQLite  
+**DevOps:** Docker, Nginx, Uvicorn, GitHub Actions  
+**Tools:** Linux, Git  
+**Core Skills:** Async programming, REST API design, automation, web scraping  
 
-### 📌 Current focus
-- Building APIs with FastAPI
-- Exploring various hardware and software integrations
+---
 
-###
-
-###
+## 🚧 Current Focus  
+- Designing APIs with FastAPI  
+- Improving backend architecture and automation  
+- Exploring integrations between software and industrial/hardware systems  

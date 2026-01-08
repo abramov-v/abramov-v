@@ -2,11 +2,16 @@
 
 > General Kenobi...
 >
-I build systems in Python. I care about clean code, useful tools, and curious hardware.
+I build backend systems in Python. I care about clean code, useful tools, and curious hardware.
 
 ---
 
-## 🛠️ Tech Stack  
+## What I worked on
+- Designed REST API structure
+- Implemented authentication and validation
+- Worked with PostgreSQL and migrations
+
+## Tech Stack  
 **Languages:** Python, C  
 **Frameworks:** FastAPI, Django, Flask  
 **Databases:** PostgreSQL, Redis, SQLite  
@@ -15,8 +20,3 @@ I build systems in Python. I care about clean code, useful tools, and curious ha
 **Core Skills:** Async programming, REST API design, automation, web scraping  
 
 ---
-
-## 🚧 Current Focus  
-- Designing APIs with FastAPI  
-- Improving backend architecture and automation  
-- Exploring integrations between software and industrial/hardware systems  

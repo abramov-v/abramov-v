@@ -12,7 +12,7 @@ I build backend systems in Python. I care about clean code, useful tools, and cu
 - Worked with PostgreSQL and migrations
 
 ## Tech Stack  
-**Languages:** Python, C  
+**Languages:** Python, C
 **Frameworks:** FastAPI, Django, Flask  
 **Databases:** PostgreSQL, Redis, SQLite  
 **DevOps:** Docker, Nginx, Uvicorn, GitHub Actions  

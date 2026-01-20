@@ -11,4 +11,9 @@ You can find my projects and experiments in the [repositories.](https://github.c
 **Frameworks:** FastAPI, Django, Flask  
 **Databases:** SQL, PostgreSQL, Redis  
 **DevOps:** Docker, Nginx, Uvicorn, GitHub Actions  
-**Tools:** Linux, Git  
+**Tools:** Linux, Git
+
+## 🧩 Additional Skills
+- Data processing with Pandas & NumPy
+- Web scraping
+- Automation & system integration

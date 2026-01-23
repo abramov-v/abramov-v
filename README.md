@@ -9,7 +9,7 @@ You can find my projects and experiments in the [repositories.](https://github.c
 ## ⚙️ Tech Stack
 **Languages:** Python, C  
 **Frameworks:** FastAPI, Django, Flask  
-**Databases:** SQL, PostgreSQL, SQLAlchemy, Redis, Celery
+**Databases:** PostgreSQL, SQLAlchemy, Redis, Celery
 **DevOps:** Docker, Nginx, Uvicorn, GitHub Actions  
 **Tools:** Linux, Git
 
